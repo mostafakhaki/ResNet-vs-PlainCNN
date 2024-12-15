@@ -26,7 +26,7 @@ The models' validation set accuracy was not optimized as part of this project. T
 * Data augmentation methods such as random cropping, flipping, and rotation.
   
 ## Requirements:
-Python 3.x
-TensorFlow 2.x
-Keras
-CIFAR-100 Dataset
+* Python 3.x
+* TensorFlow 2.x
+* Keras
+* CIFAR-100 Dataset
