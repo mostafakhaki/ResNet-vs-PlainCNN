@@ -18,7 +18,7 @@ This project compares the performance of ResNet50 and a plain CNN on the more ch
 
 # Results:
 CIFAR-100: While ResNet50 generally shows better training stability and faster convergence, both models did not achieve high performance on the validation set. The focus of the experiment was on the training process rather than validation accuracy.
-
+![Training ResNet50 vs. Plain CNN on CIFAR-100](https://github.com/mostafakhaki/ResNet-vs-PlainCNN/blob/main/Model%20Accuracy%20-%20ResNet.png?raw=true)
 
 # Notes:
 The models' validation set accuracy was not optimized as part of this project. To improve generalization and validation performance, you may consider:
